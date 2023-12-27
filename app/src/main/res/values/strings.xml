@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FindCouplesGame</string>
+    <string name="game_logo_text">Game Logo</string>
+    <string name="play">Play</string>
+    <string name="less_time_more_reward">! less time more reward</string>
+    <string name="rules_text">Keep matching up two of the same object until there are no more to be paired and you clear the board.</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_won">You WON!</string>
+    <string name="double_reward">Double Reward</string>
+</resources>
